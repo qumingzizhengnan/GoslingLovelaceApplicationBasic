@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoslingLovelace</string>
+    <string name="tv_james">在他12岁的时候，他已能设计电子游戏机，帮忙邻居修理收割机。大学时期在天文系担任程式开发工读生，1977年获得了加拿大卡尔加里大学计算机科学学士学位。1981年开发在Unix上运行的Emacs类编辑器Gosling Emacs（以C语言编写，使用Mocklisp作为扩展语言）。</string>
+    <string name="tv_ada">洛夫莱斯伯爵夫人奥古斯塔·埃达·金·诺尔（Augusta Ada King-Noel, Countess of Lovelace，1815年12月10日－1852年11月27日），原姓拜伦（Byron），是一位英国数学家与作家，代表作是她为查尔斯·巴贝奇的分析机——机械式通用电脑——所写的注记。她是第一位主张电脑不只可以用来数学计算的人，也发表了第一段分析机用的算法。因此，埃达被公认为史上第一位电脑程序员。</string>
+</resources>
